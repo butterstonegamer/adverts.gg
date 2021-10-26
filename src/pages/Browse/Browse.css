@@ -1,0 +1,241 @@
+#filterMenu {
+    float: left;
+    margin-left: 2.5%;
+    height: 150px;
+    width: 100%;
+    background-color: #32353a;
+    border-radius: 25px;
+}
+
+#filterText {
+    color: #FA7268;
+    font-weight: 600;
+}
+
+#Filters-left {
+    width: 25%;
+    margin-left: 1.5%;
+}
+
+#label {
+    color: rgb(175, 175, 175);
+    font-size: 12px;
+    text-align: center;
+}
+
+#SelectMaxPrice {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}
+
+#SelectMinPrice {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}
+
+#SelectMaxSize {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}
+
+#SelectMinSize {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}   
+
+#SelectMaxOnlineSize {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}
+
+#SelectMinOnlineSize {
+    text-align: center;
+    color: #cfcfcf;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    border:solid 1px rgb(58, 58, 58);
+    outline: none;
+}
+
+#Filters {
+    width: 100%;
+}
+
+#orderSelect {
+    margin-top: 10px;
+    float: left;
+    margin-left: 2.5%;
+    height: 70px;
+    width: 100%;
+    background-color: #32353a;
+    border-radius: 25px;
+}
+
+#filterBox {
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 30%;
+    display: inline-block;
+}
+
+#orderSelectBox {
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 30%;
+    display: inline-block;
+}
+
+#SelectCatagory {
+    background-color: rgb(39, 39, 39);
+    color: rgb(196, 196, 196);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#SelectSort {
+    background-color: rgb(39, 39, 39);
+    color: rgb(196, 196, 196);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#SelectPing {
+    background-color: rgb(39, 39, 39);
+    color: rgb(196, 196, 196);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#selectOption {
+    background-color: rgb(39, 39, 39);
+}
+
+#ContentArea1 {
+    overflow-y: scroll;
+    height: 100%;
+    margin-left: 250px;
+    min-width: 500px;
+    float: right;
+    position: fixed;
+    width: 75%;
+    z-index: -1;
+}
+
+#serversContainer {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 100px;
+    float: left;
+    margin-left: 2.5%;
+    background-color: #272727;
+    padding: 10px;
+    border-radius: 25px;
+    padding-bottom: 25px;
+}
+
+#StatsMenu {
+    position: absolute;
+    height: 100%;
+}
+
+#onlineCount {
+    font-weight: 400;
+    color: #85fa68;
+}
+
+#Table {
+    color: #b8b8b8;
+}
+
+
+#viewButton {
+    color: #ffffff;
+    transition: 0.2s;
+    opacity: 0.8;
+    padding: 10px;
+    margin-left: 5px;
+    background-color: #7289DA;
+}
+
+#viewButton:hover {
+    transition: 0.2s;
+    opacity: 0.9;
+    padding: 10px;
+    margin-left: 5px;
+    background-color: #7289DA;
+}
+
+#addButton {
+    transition: 0.2s;
+    opacity: 0.7;
+    padding: 5px;
+    background-color: #7289DA;
+}
+
+#addButton:hover {
+    transition: 0.2s;
+    opacity: 0.9;
+    padding: 5px;
+    background-color: #7289DA;
+}
+
+#pageButton {
+    transition: 0.3s;
+    margin-right: 10px;
+    background-color: #7289DA;
+    height: 25px;
+}
+
+#pageButton:hover {
+    transition: 0.3s;
+    margin-right: 10px;
+    background-color: #8197e6;
+    height: 25px;
+}
+
+::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+}
+
+#ServerIconPurchase {
+    width: 50px;
+    height: 50px;
+    opacity: 0.9;
+}
+
+#message {
+    height: 230px;
+}
+
+#greenText {
+    font-weight: 400;
+    color: #50963e;
+}
+
+#CheckoutButton {
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+#pageDescription {
+    color: white;
+}
+
+#pageHeading {
+    margin-top: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+#inProgress {
+    font-weight: 400;
+    color: orange;
+}
+
+#rejected {
+    font-weight: 400;
+    color: rgb(255, 60, 0);
+}
+
+#refunded {
+    font-weight: 400;
+    color: rgb(0, 140, 255);
+}

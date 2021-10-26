@@ -1,0 +1,190 @@
+#listedServers {
+    padding: 5px;
+    border-radius: 20px;
+    width: 700px;
+    background-color: #32353a;
+    margin-top: 20px;
+}
+
+#container{
+    width: 700px;
+    position: absolute;
+    margin-left: calc(50% - 350px);
+    margin-top: 300px;
+}
+
+#orders {
+    padding: 5px;
+    border-radius: 20px;
+    width: 700px;
+    background-color: #32353a;
+}
+
+#orderCost {
+    margin-top: 13px;
+    margin-right: 10px;
+    float: right;
+    color: #cecece;
+}
+
+#orders {
+    margin-top: 0px;
+}
+
+#listedServersCaption {
+    color: white;
+    font-weight: 600;
+}
+
+#AddServerButton {
+    margin-top: 25px;
+    background-color: #7289DA;
+}
+
+#outstandingOrdersText {
+    color: rgb(192, 192, 192);
+}
+
+#warningMessage {
+    color: red;
+    font-size: 12px;
+}
+
+#disclosure {
+    font-size: 14px;
+}
+
+#listedServerBlock {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 10px;
+    height: 50px;
+    background-color: #3c4046;
+    margin-top: 10px;
+}
+
+#listedServerIcon {
+    float: left;
+    margin-left: 5px;
+}
+
+#listedServerName {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+#orderServerName {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+#viewOrderButton {
+    margin-top: 7.5px;
+    margin-right: 20px;
+    height: 35px;
+    float: right;
+    color: #ffffff;
+    transition: 0.2s;
+    opacity: 0.8;
+    padding: 10px;
+    margin-left: 5px;
+    background-color: #7289DA;
+}
+
+#orderId {
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+}
+
+#orderTime {
+    float: left;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(155, 155, 155);
+    margin-top: -5px;
+    padding: unset;
+    margin: unset;
+}
+
+#orderHeader {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#orderWarning {
+    font-size: 10px;
+}
+
+#viewOrderMessage {
+    font-size: 12px;
+}
+
+#orderDisclosure {
+    font-size: 12px;
+}
+
+#PendingApproval {
+    color: #FA7268;
+    float: right;
+    margin-right: 50px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+#active {
+    color: #96fa68;
+    float: right;
+    margin-right: 50px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+#denied {
+    color: #f53d30;
+    float: right;
+    margin-right: 15px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+#editButton {
+    background-color: #d44d44;
+    height: 40px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: rgb(218, 218, 218);
+}
+
+#deniedReason {
+    color: red;
+    font-weight: 500;
+}
+
+#deniedHeader {
+    font-weight: 700;
+    color: black;
+}
+
+#rejectOrder {
+    color: white;
+}
+
+#AlertMessage {
+    border-radius: 10px;
+}
+
+#bold {
+    font-family: 600;
+    color: black;
+}
+
+#FormLabel {
+    font-family: 600;
+    color: rgb(0, 0, 0);
+}
